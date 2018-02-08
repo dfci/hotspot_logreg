@@ -1,0 +1,4 @@
+filename
+groupA_somaticMutations.maf
+groupB_somaticMutations.maf
+groupC_somaticMutations.maf

@@ -1,0 +1,29 @@
+{
+  
+  "hotspot.vepOfflineCacheDir": "/data/vepcache/",
+  "hotspot.refFasta": "/data/intelccc/genomics/genome/Homo_sapiens.GRCh37.dna.primary_assembly.fa.gz",
+  "hotspot.refFastaFai": "/data/intelccc/genomics/genome/Homo_sapiens.GRCh37.dna.primary_assembly.fa.gz.fai",
+
+  "hotspot.merge.vcf_files": ["/data/intelccc/hotspots/metabric_groupA_sorted.vcf.gz", "/data/intelccc/hotspots/metabric_groupB_sorted.vcf.gz", "/data/intelccc/hotspots/metabric_groupC_sorted.vcf.gz"],
+  "hotspot.merge.vcf_files_tbi": ["/data/intelccc/hotspots/metabric_groupA_sorted.vcf.gz.tbi", "/data/intelccc/hotspots/metabric_groupB_sorted.vcf.gz.tbi", "/data/intelccc/hotspots/metabric_groupC_sorted.vcf.gz.tbi"],
+  "hotspot.merge.output_file_prefix": "metabric",
+  
+  "hotspot.chromNamesToEnsembl.outputFilePrefix": "converted",
+
+  "hotspot.variant_effect_predictor.outputFileName": "vep_output.vcf",
+  "hotspot.variant_effect_predictor.everything": true,
+  "hotspot.variant_effect_predictor.total_length": true,
+  "hotspot.variant_effect_predictor.vcf": true,
+  "hotspot.variant_effect_predictor.shift_hgvs": 1,
+  "hotspot.variant_effect_predictor.failed": 1,
+
+  "hotspot.oncodrivefm.estimator": "median",
+  "hotspot.oncodrivefm.cores": 1,
+  "hotspot.oncodrivefm.pathwayMappingFile": "/data/intelccc/hotspots/ensg_kegg.tsv",
+  "hotspot.oncodrivefm.outputFilePrefix": "oncodrivefm_out",
+
+  "hotspot.vcf2maf.outputFilePrefix": "vcf2maf_out",
+  
+  "hotspot.taylor.outputFilePrefix": "taylor_out"
+
+}

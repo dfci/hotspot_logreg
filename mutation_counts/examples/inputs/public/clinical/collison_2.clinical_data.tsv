@@ -1,0 +1,9 @@
+Tumor_Sample_Barcode	Center	ER_Status	PR_Status	HER2_Status	Biopsy_Site_Type	Histology_Type	Gender
+_AAAAA	BBBBB	Positive	Negative	Positive	Primary	Invasive_Ductal_Carcinoma	Female
+_CCCCC	BBBBB	Positive	Negative	Positive	Primary	Invasive_Ductal_Carcinoma	Female
+_ABCDE	BBBBB	Positive	Negative	Positive	Primary	Invasive_Ductal_Carcinoma	Female
+_11111	BBBBB	Positive	Negative	Positive	Primary	Invasive_Ductal_Carcinoma	Female
+_12345	BBBBB	Positive	Negative	Positive	Primary	Invasive_Ductal_Carcinoma	Female
+_55555	BBBBB	Positive	Negative	Positive	Primary	Invasive_Ductal_Carcinoma	Female
+_123AA	BBBBB	Positive	Negative	Positive	Primary	Invasive_Ductal_Carcinoma	Female
+_BB123	BBBBB	Positive	Negative	Positive	Primary	Invasive_Ductal_Carcinoma	Female

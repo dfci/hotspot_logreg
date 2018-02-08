@@ -1,0 +1,25 @@
+hotspot_data/*
+meta/*
+.ipynb_checkpoints
+.idea/*
+*.tar.gz
+*.tar
+*.pyc
+.ccc_history.json
+*cromwell-executions*
+*cromwell-workflow-logs*
+*test*
+*tmp*
+mutation_counts/examples/inputs/private/*
+mutation_counts/examples/inputs/public/from_intelccc/*
+mutation_counts/examples/inputs/public/genie/*
+mutation_counts/examples/inputs/public/tcga_brca/*
+mutation_counts/examples/inputs/public/metabric/raw/*
+mutation_counts/examples/workflow/*/tmp/*
+mutation_counts/private/*
+mutation_counts/scripts/private/*
+mutation_counts/pipeline_resources/*
+mutation_counts/examples/inputs/public/clinical/raw/*
+
+# But not these files
+!mutation_counts/pipeline_resources/pull.sh

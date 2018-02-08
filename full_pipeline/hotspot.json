@@ -1,0 +1,33 @@
+{
+  "hotspot.outputDir": "/output/",
+  
+  "hotspot.merge.vcf_files": ["1b59e717-ad00-4f05-9390-ef41b8d7c9b3", "d1c39861-e60c-4fd4-924b-0536f2a9c031", "e4fab823-8205-46a0-b50d-d6c5e9255ee2"],
+  "hotspot.merge.vcf_files_tbi": ["54569ea6-6814-4495-b6a7-d82a55da2013", "1a15faba-2e45-428b-80d3-86f0be06b44b", "db362a72-66b9-476b-b732-2e42dfca2580"],
+  "hotspot.merge.output_file_prefix": "metabric_merged",
+  
+  "hotspot.process_vcf.outputFilePrefix": "processed_input_for_table_annovar",
+
+  "hotspot.table_annovar.annovarDatabase": "2b7d361a-e91f-472f-8355-0c0ef8ce1346",
+  
+  "hotspot.oncodrivefm.estimator": "median",
+  "hotspot.oncodrivefm.cores": 1,
+  "hotspot.oncodrivefm.pathwayMappingFile": "c19fd653-32f3-4c7e-b32f-ea318c689f76",
+
+  "hotspot.chromNamesToEnsembl.outputFilePrefix": "converted",
+
+  "hotspot.vcf2maf.vepOfflineCacheDir": "096f37dc-15fa-46b7-b9af-d2a6b0864f13",
+  "hotspot.vcf2maf.refFasta": "4d4449b7-10e0-4169-b462-89bc2a16470b",
+  "hotspot.vcf2maf.refFastaFai": "b0deba7b-8144-4ab0-b9f8-89749b610340",
+  "hotspot.vcf2maf.outputDir": ".",
+  "hotspot.vcf2maf.outputFilePrefix": "vcf2maf",
+  "hotspot.vcf2maf.ncbiBuild": "GRCh37",
+
+  "hotspot.maf2maf.ncbiBuild": "GRCh37",
+  "hotspot.maf2maf.vepOfflineCacheDir": "096f37dc-15fa-46b7-b9af-d2a6b0864f13",
+  "hotspot.maf2maf.refFasta": "4d4449b7-10e0-4169-b462-89bc2a16470b",
+  "hotspot.maf2maf.refFastaFai": "b0deba7b-8144-4ab0-b9f8-89749b610340",
+
+  "hotspot.taylor.refFasta": "4d4449b7-10e0-4169-b462-89bc2a16470b",
+  "hotspot.taylor.refFastaFai": "b0deba7b-8144-4ab0-b9f8-89749b610340"
+
+}

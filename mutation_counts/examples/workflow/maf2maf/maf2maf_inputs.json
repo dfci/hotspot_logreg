@@ -1,0 +1,7 @@
+{
+  "wf.inMaf": "<ROOT_DIR>/mutation_counts/examples/inputs/public/metabric.SNV.subset_genes.maf",
+  "wf.refFasta": "<ROOT_DIR>/mutation_counts/pipeline_resources/ref_genome/GRCh37_r1/Homo_sapiens.GRCh37.75.dna.primary_assembly.fa.gz",
+  "wf.maf2maf.vepOfflineCacheTarGz": "<ROOT_DIR>/mutation_counts/pipeline_resources/vep/v1.0.1_85/vep.tar.gz",
+  "wf.maf2maf.ncbiBuild": "GRCh37",
+  "wf.maf2maf.customEnst": "/home/data/isoform_overrides_uniprot"
+}

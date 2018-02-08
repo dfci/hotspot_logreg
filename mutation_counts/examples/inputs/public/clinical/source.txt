@@ -1,0 +1,50 @@
+Mon Apr  3 16:03:03 2017
+------------------------
+
+(1) METABRIC
+
+    (A) brca_metabric_clinical_data.tsv (Downloaded on Feb 27, 2016)
+
+         -Navigate to the URL: http://www.cbioportal.org/study?id=brca_metabric#clinical
+
+         -Click the 'DATA' button to download the data
+
+    (B) tumorIdMap.txt
+
+        Tumor ID Map
+
+        (View on Github)
+        https://github.com/cclab-brca/mutationalProfiles/blob/58dd5702d7b50e1377c282babb96e15ba969cbcb/Data/tumorIdMap.txt
+
+        (Raw File)
+        https://raw.githubusercontent.com/cclab-brca/mutationalProfiles/58dd5702d7b50e1377c282babb96e15ba969cbcb/Data/tumorIdMap.txt
+
+
+(2) TCGA-BRCA.
+
+    (A) From Supplementary Table 1 of 2012 Nature Paper (nature11412-s2.zip)
+
+        Comprehensive molecular portraits of human breast tumours
+        (http://www.nature.com/nature/journal/v490/n7418/full/nature11412.html)
+
+        Dataset Link: http://www.nature.com/nature/journal/v490/n7418/extref/nature11412-s2.zip
+
+    (B) Additional Clinical Data from 2015 Cell Paper (Ciriello_Cell_2015.Table_S1.xlsx):
+
+        Comprehensive Molecular Portraits of Invasive Lobular Breast Cancer
+        (http://www.sciencedirect.com/science/article/pii/S0092867415011952)
+
+        Dataset Link: http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S0092867415011952/1-s2.0-S0092867415011952-mmc2.xlsx/272196/html/S0092867415011952/d4b97123c7476919fc51dc2a54e28755/mmc2.xlsx
+
+    (C) [Currently Not Used] Additional Clinical data (BRCA.datafreeze.20120227.xlsx):
+
+        Dataset Link: http://tcga-data.nci.nih.gov/docs/publications/brca_2012/BRCA.datafreeze.20120227.xlsx
+
+(3) Sanger Institute 560 WGS Breast Cancer samples:
+
+    From Supplementary Table 1 of 2016 Nature Paper:
+
+        Landscape of somatic mutations in 560 breast cancer whole-genome sequences
+        (http://www.nature.com/nature/journal/v534/n7605/abs/nature17676.html)
+
+        Dataset Link: http://www.nature.com/nature/journal/v534/n7605/extref/nature17676-s3.zip

@@ -1,0 +1,7 @@
+(1) 'metabric.somaticMutations_incNC.txt':
+        'https://github.com/cclab-brca/mutationalProfiles/blob/master/Data/somaticMutations_incNC.txt' (commit: '4fb285f')
+
+(2) 'metabric.targetedIntervals.txt':
+        According to Fouad Yousif (OICR) <fouad.yousif@oicr.on.ca>:
+            "I believe that this target was used for all the samples. This BED file was obtained from the authors
+            that we contacted via email. If you find any discrepancies in the file please let me know."

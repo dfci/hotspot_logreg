@@ -1,0 +1,4 @@
+(1) Downloaded  brca_metabric.tar from cBioPortal (April 3rd, 2017):
+
+    (A) Navigate the the following URL http://www.cbioportal.org/study?id=brca_metabric#summary
+    (B) Click 'Download data' Icon

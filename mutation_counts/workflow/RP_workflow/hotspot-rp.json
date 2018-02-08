@@ -1,0 +1,18 @@
+{
+
+  "RP_Hotspot.inMafs": ["16b3a723-54dd-53d8-8777-cf51b16dc044", "3fc3a2b4-c4e2-50d0-8e0b-ecc8b2959d84", "eb9384b4-48e5-5d6a-bd5c-30d9eeb8c021", "dccc5f2e-91a2-59f3-bcaa-8e27f4398a5a", "5f224e2a-30d0-59e3-b345-6a56934c50eb", "9b6a3513-6bfb-5926-a021-42386bf9e6b1", "11d0b187-4040-547b-9067-c1f6675d73c1", "1fe581c2-9d72-51c6-b1f9-423e01969d46", "9209a706-8937-5a2c-9ad0-9a327f9755a1", "c259027a-7f46-52bd-9ea7-e8442881a6b3", "74aeab79-9fed-573e-9da5-7c00ed0fbfc2", "f5a8494f-ced7-540d-a4b3-5cded8d3ff1c", "57189f85-1894-5e0a-ab89-efc39dac1af9", "9888abeb-8150-512f-ae8f-b50ba4f38aac", "a873dcfa-b288-56f0-81d1-853d455b86c4", "397d81d8-f2b4-5725-87de-91b8d7ee46aa", "be54c64a-d5d3-58cd-9439-7a35d9cd3f9e", "61c1ba4e-470f-5bf4-8023-f0d91c14a260", "ec58a882-f92d-5855-936e-f5f141942a85"], 
+
+  "RP_Hotspot.inTargetBeds": ["f1db1b8d-2994-5fa7-9b1a-00adbe4a92e3", "4abf85b8-1c33-5f9d-96a8-d1f2aa28e48b", "8a7a1841-96e0-504d-afd9-5c7e44ece00c", "f66995dd-2580-50ba-86f0-670f5f0d5c7f", "54edb638-c739-522f-8079-90a9c8cb0ce0", "0a868f9c-b804-54e5-8317-eb61b2215a48", "e4d389b0-0414-5931-9a12-cc8ec9acd046", "5ea58b37-e7a5-5f73-8994-0b1fdffb8a53", "04381ba3-c106-5164-8834-a751e17c25fa", "9d13cc31-b28a-5d42-a147-4d8a693dbfbd", "e4d389b0-0414-5931-9a12-cc8ec9acd046", "e4d389b0-0414-5931-9a12-cc8ec9acd046", "e4d389b0-0414-5931-9a12-cc8ec9acd046", "e4d389b0-0414-5931-9a12-cc8ec9acd046", "a9f7065d-8a94-5e77-b4f1-5e06a3f1a70a", "edd75816-97a2-5ff8-aa5a-3d24cec92bfc", "52cdfa42-5b38-5fb1-91a2-49424f4062c8", "f71f8d05-3e92-540f-b1d6-db55ccd4bde9", "e4d6eac5-da21-5dac-86c7-8fe0cab4a7e4"],
+
+  "RP_Hotspot.inClinicals": ["1b9dc411-bec5-58b6-b35f-cee88d3dae6f", "f92dfbc7-014e-541c-98a3-f5efca1f0c2b", "85bd7395-661f-5600-b67d-1619733eaa0f", "7a7eaa4d-8530-5a6e-8df4-eabed480a386", "f8126264-68b1-51d2-8e4c-bd4cf58e93c4", "f0db9eb2-1f88-5906-b53a-58614347294e", "be6d925a-0a0e-5e83-a482-6d3b24a85946", "781becb8-3c88-5475-98da-16f4d1c44928", "1d76445b-74b5-5d67-8a74-8a601bef383f", "7ccacfa7-34f7-5499-a52b-032cb0bafbc6", "3c4532d8-a890-5898-ad7b-bfe362bdcec8", "2bfca39b-71d9-5447-8a3a-4dba99f164a0", "5e872cee-95cd-5438-b22f-a5879aef80f6", "9e63c752-c13e-52b9-b973-b4f317d5a932", "5cde79a6-de92-53ee-8cf8-636f5226a646", "c96c7438-7d81-5fd8-84a0-496c9137cb12", "133592db-72f9-55c8-880a-d7f8d57d5192"],
+
+  "RP_Hotspot.geneAnnotationGtf": "1984f55f-6a60-5a2a-afa2-1e803072e69f",
+  "RP_Hotspot.refFasta": "44aa043d-0a35-58c8-bce5-2dca58ad163c",
+  "RP_Hotspot.refFastaFai": "4a4432fa-6cff-5106-9ef0-be8ff87fa87d", 
+
+  "RP_Hotspot.mergeAnnotatedMaf.outMaf": "mergedAnnotatedMaf.maf",
+  "RP_Hotspot.getSourceMafIDs.sourceMaf_outFile": "SourceMafIDs.txt",
+  "RP_Hotspot.mergeClinical.outClinical": "mergedClinical.tsv",
+  "RP_Hotspot.countMutations.mutations_count_output": "MutationCounts.txt"
+
+}

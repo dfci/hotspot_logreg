@@ -1,0 +1,31 @@
+{
+  "hotspot.vepOfflineCacheDir": "/Users/strucka/Projects/dockerized_tools/vcf2maf/resources/vep_offline_cache",
+  "hotspot.refFasta": "/Users/strucka/Projects/dockerized_tools/taylor-lab-hotspots/resources/Homo_sapiens.GRCh37.dna.primary_assembly.fa",
+  "hotspot.refFastaFai": "/Users/strucka/Projects/dockerized_tools/taylor-lab-hotspots/resources/Homo_sapiens.GRCh37.dna.primary_assembly.fa.fai",
+
+  "hotspot.merge.vcf_files": ["/Users/strucka/Downloads/full_pipeline/metabric_groupA_sorted.vcf.gz", 
+                              "/Users/strucka/Downloads/full_pipeline/metabric_groupB_sorted.vcf.gz", 
+                              "/Users/strucka/Downloads/full_pipeline/metabric_groupC_sorted.vcf.gz"],
+  "hotspot.merge.vcf_files_tbi": ["/Users/strucka/Downloads/full_pipeline/metabric_groupA_sorted.vcf.gz.tbi", 
+                                  "/Users/strucka/Downloads/full_pipeline/metabric_groupB_sorted.vcf.gz.tbi", 
+                                  "/Users/strucka/Downloads/full_pipeline/metabric_groupC_sorted.vcf.gz.tbi"],
+  "hotspot.merge.output_file_prefix": "metabric_merged",
+
+  "hotspot.chromNamesToEnsembl.outputFilePrefix": "converted",
+
+  "hotspot.variant_effect_predictor.outputFileName": "vep_output.vcf",
+  "hotspot.variant_effect_predictor.everything": true,
+  "hotspot.variant_effect_predictor.total_length": true,
+  "hotspot.variant_effect_predictor.vcf": true,
+  "hotspot.variant_effect_predictor.shift_hgvs": 1,
+  "hotspot.variant_effect_predictor.failed": 1,
+  
+  "hotspot.oncodrivefm.outputFilePrefix": "oncodrivefm_out",
+  "hotspot.oncodrivefm.estimator": "median",
+  "hotspot.oncodrivefm.cores": 1,
+  "hotspot.oncodrivefm.pathwayMappingFile": "/Users/strucka/Data/metabric/oncodrivefm/input/ensg_kegg.tsv",  
+
+  "hotspot.vcf2maf.outputFilePrefix": "vcf2maf",
+
+  "hotspot.taylor.outputFilePrefix": "taylor_out"
+}

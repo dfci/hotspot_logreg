@@ -1,0 +1,15 @@
+{
+  "wf.inMafs": ["/data/parin/dev/intelccc/CCC_HotspotUsecase/mutation_counts/examples/inputs/public/metabric/metabric.subset_genes.vep.maf",
+                "/data/parin/dev/intelccc/CCC_HotspotUsecase/mutation_counts/examples/inputs/public/sanger.somatic_coding.subset_genes.vep.maf"],
+  "wf.inTargetBeds": ["/data/parin/dev/intelccc/CCC_HotspotUsecase/mutation_counts/examples/inputs/public/metabric.targetedIntervals.r1.bed",
+                      "/data/parin/dev/intelccc/CCC_HotspotUsecase/mutation_counts/examples/inputs/public/wgs.target.r1.bed"],
+  "wf.inClinicals": ["/data/parin/dev/intelccc/CCC_HotspotUsecase/mutation_counts/examples/inputs/public/clinical/metabric.clinical_data.tsv",
+                     "/data/parin/dev/intelccc/CCC_HotspotUsecase/mutation_counts/examples/inputs/public/clinical/sanger_wgs.clinical_data.tsv"],
+  "wf.scriptsDir": "/data/parin/dev/intelccc/CCC_HotspotUsecase/mutation_counts/scripts",
+  "wf.geneAnnotationGtf": "/data/parin/dev/intelccc/CCC_HotspotUsecase/mutation_counts/pipeline_resources/gene_annotation/r1/CDS_only.Homo_sapiens.GRCh37.85.r1.gtf",
+  "wf.refFasta": "/data/parin/dev/intelccc/CCC_HotspotUsecase/mutation_counts/pipeline_resources/ref_genome/GRCh37_r2/Homo_sapiens.GRCh37.75.dna.primary_assembly.fa",
+  "wf.countMutations.minCount": "3",
+  "wf.countMutations.runHotspotStatsModel": "True",
+  "wf.countMutations.useToyStatsModel": "False",
+  "wf.countMutations.biopsySiteTypeFilter": "PRIMARY_ONLY"
+}
